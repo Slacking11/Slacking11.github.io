@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Guangyu (Daniel) Hou"
   pronouns         : "he/his"  
-  bio              : "Keep improvingr"
+  bio              : "Keep improving"
   location         : "Earth"
   employer         : "Nankai University"
   uri              : # URL
