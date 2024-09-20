@@ -11,6 +11,6 @@ I am a forth year undergraduate student from [School of Mathematical Science](ht
 
 I am very fortunate to be advised by [Prof. Haoyang Cao](https://haoyang-cao.github.io/) from [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) of [Johns Hopkins University](https://www.jhu.edu/).
 
-You can find my [CV](../assets/Curriculum_Vitae.pdf) here.
+You can find my [CV](../assets/Guangyu_Hou_CV.pdf) here.
 
 [Email](mailto:danielhougy@gmail.com)
