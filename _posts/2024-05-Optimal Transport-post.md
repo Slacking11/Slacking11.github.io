@@ -1,5 +1,5 @@
 ---
-title: '2024-05-Optimal Transport-post'
+title: 'Optimal Transport'
 date: 2024-05
 permalink: /posts/Optimal Transport/
 tags:
