@@ -1,7 +1,7 @@
 ---
 title: 'Optimal Transport'
 # date: 2024-05
-permalink: /posts/Notes on Optimal Transport/
+permalink: /posts/Optimal Transport/
 tags:
   - cool posts
   - category1
