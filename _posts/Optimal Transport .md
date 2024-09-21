@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-This is a [reading report](../posts/Notes on Optimal Transport.pdf) on three papers respectively on Joint Distribution Optimal Transport(JDOT), Sinkhorn Distances and Joint Class Proportion and Optimal
+This is a reading report on three papers respectively on Joint Distribution Optimal Transport(JDOT), Sinkhorn Distances and Joint Class Proportion and Optimal
 Transport (JCPOT). 
 
 
