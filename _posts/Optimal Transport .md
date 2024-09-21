@@ -1,6 +1,6 @@
 ---
-title: 'Optimal Transport'
-# date: 2024-05
+title: '2024-05-Optimal Transport-post'
+date: 2024-05
 permalink: /posts/Optimal Transport/
 tags:
   - cool posts
@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-This is a reading report on three papers respectively on Joint Distribution Optimal Transport(JDOT), Sinkhorn Distances and Joint Class Proportion and Optimal
+This is a reading [report](../posts/Notes on Optimal Transport.pdf) on three papers respectively on Joint Distribution Optimal Transport(JDOT), Sinkhorn Distances and Joint Class Proportion and Optimal
 Transport (JCPOT). 
 
 
