@@ -11,11 +11,4 @@ tags:
 This is a reading report on three papers respectively on Joint Distribution Optimal Transport(JDOT), Sinkhorn Distances and Joint Class Proportion and Optimal
 Transport (JCPOT). 
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
